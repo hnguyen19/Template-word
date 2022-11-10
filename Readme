@@ -20,4 +20,4 @@ General workflow:
 3 - The `.tex` file is uploaded to Overleaf for final polishing that are very inconvenient or impossible to do in R. 
 
 I sincerely thank the R user community, `bookdown` authors, Zotero, and ISU Lunchinators for inspiration, coaching, and troubleshooting. 
-This current structure works best for me.
+
